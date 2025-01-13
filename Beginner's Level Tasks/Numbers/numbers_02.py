@@ -6,5 +6,5 @@ Area=pi*r*r
 print("The Area of circle is:",Area)
 #Pond has a Water amount of 1.4 litres in a square meter
 Amount_of_water=1.4
-Total_amount_of_water=(Area*Amount_of_water)
+Total_amount_of_water=int(Area*Amount_of_water)
 print("The total amount of water contained in the pool is:", Total_amount_of_water)
