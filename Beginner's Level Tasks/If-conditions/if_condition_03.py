@@ -1,4 +1,4 @@
-#3. Write a program to check if two cities belong to the same country.
+#3. Write a program to check if two cities belong to the same country...
 #Ask the user to enter two cities and print whether they belong to the same country or not.
 Australia = ["Sydney", "Melbourne", "Brisbane", "Perth"]
 UAE = ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"]
